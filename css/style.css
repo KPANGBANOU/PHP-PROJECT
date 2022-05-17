@@ -1,3 +1,8 @@
 body {
     background-image: url("fichiers-php-html/images/image.png");
 }
+
+h1 {
+    background-color: green;
+    color: white;
+}
