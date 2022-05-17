@@ -1,5 +1,3 @@
 body {
-    background-color: green;
-    color: red;
-    scroll-behavior: smooth;
+    background-image: url("fichiers-php-html/images/image.png");
 }
