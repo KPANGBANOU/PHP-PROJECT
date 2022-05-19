@@ -1,7 +1,6 @@
 body {
     background-image: url("fichiers-php-html/images/image.png");
     scroll-behavior: smooth;
-    text-overflow: ellipsis;
 }
 
 h1 {
