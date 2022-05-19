@@ -11,6 +11,8 @@
     <h2>Seul l'effort paie</h2>
 
     <h1>Marcellin KPANGBANOU</h1>
+
+    merci
 </body>
 
 </html>
